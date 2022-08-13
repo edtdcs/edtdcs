@@ -2,7 +2,7 @@
 - 👀 I’m interested in astronomy
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 21856964@qq.com
+- 📫 How to reach me 2185696464@qq.com
 
 <!---
 edtdcs/edtdcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
